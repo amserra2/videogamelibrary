@@ -1,0 +1,27 @@
+PlayStation|September 9, 1995
+Sony Computer Entertainment|Sony
+Fifth|100|ps1.png|Console
+PlayStation 2|October 26, 2000
+Sony Computer Entertainment|Sony
+Sixth|200|ps2.png|Console
+PlayStation 3|November 17, 2006
+Sony Computer Entertainment|Sony
+Seventh|300|ps3.png|Console
+PlayStation 4|November 15, 2013
+Sony Interactive Entertainment|Sony
+Eighth|400|ps4.png|Console
+PlayStation Portable|March 24, 2004
+Sony Computer Entertainment|Sony
+Seventh|500|psp.jpg|Handheld
+Super Nintendo Entertainment System|August 23, 1991
+Nintendo|Nintendo
+Fourth|600|snes.jpg|Console
+Wii|November 19, 2006
+Nintendo|Foxconn
+Seventh|700|wii.png|Console
+Xbox 360|November 22, 2005
+Microsoft|Microsoft Corporation
+Seventh|800|xbox360.jpg|Console
+macOS|March 24, 2001
+Apple, Inc.|Apple, Inc.
+N/A|900|macOS.png|Operating System
