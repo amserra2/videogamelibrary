@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LibraryFX.jnlp">
+  <information>
+    <title>LibraryFX</title>
+    <vendor>asia</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LibraryFX.jar" size="105725" download="eager" />
+    <jar href="lib/Library.jar" size="25162" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="LibraryFX" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="libraryfx.LibraryFX"  name="LibraryFX" />
+  <update check="always"/>
+</jnlp>

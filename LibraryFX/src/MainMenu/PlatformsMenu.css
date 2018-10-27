@@ -1,0 +1,35 @@
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+   -fx-border-color: #D06ABE;
+   -fx-border-width: 5px;
+}
+
+.scroll-pane {
+   -fx-background-color: transparent;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #D06ABE;
+    -fx-background-radius: 1em;
+}
+
+.text-field {
+    -fx-background-color: #D06ABE;
+}
+
+.combo-box {
+    -fx-background-color: #D06ABE;
+    -fx-font: 20px "Super Mario Maker Font";
+    -fx-pref-width: 275;
+}
+
+.date-picker {
+    -fx-background-color: #D06ABE;
+    -fx-font: 20px "Super Mario Maker Font";
+    -fx-pref-width: 275;
+}

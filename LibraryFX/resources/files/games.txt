@@ -1,0 +1,333 @@
+Grand Theft Auto: Vice City|October 29, 2002
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 2|200000|200000.png|Yes/Yes
+South Park: The Fractured but Whole|October 17, 2017
+Ubisoft|Ubisoft San Francisco|Role-Playing
+PlayStation 4|400000|400000.png|Yes/Yes
+Guitar Hero III: Legends of Rock|October 28, 2007
+Activision|Neversoft|Music
+Wii|700000|700000.png|Yes/Yes
+Detroit: Become Human|May 25, 2018
+Sony Interactive Entertainment|Quantic Dream|Adventure
+PlayStation 4|400001|400001.png|Yes/No
+The Evil Within|October 14, 2014
+Bethesda Softworks|Tango Gameworks|Survival Horror
+PlayStation 4|400002|400002.png|Yes/No
+Donkey Kong Country Returns|November 21, 2010
+Nintendo|Retro Studios|Platformer
+Wii|700001|700001.png|Yes/No
+The Legend of Zelda: Twilight Princess|November 19, 2006
+Nintendo|Nintendo EAD|Action-Adventure
+Wii|700002|700002.png|No/No
+DEUS EX: HUMΔN REVOLUTION|August 23, 2011
+Square Enix|Eidos Montréal|Action Role-Playing
+PlayStation 3|300000|300000.png|Yes/No
+Def Jam Vendetta|April 01, 2003
+EA Sports BIG|AKI Corporation|Fighting
+PlayStation 2|200001|200001.png|Yes/Yes
+Assassin's Creed III|October 30, 2012
+Ubisoft|Ubisoft Montreal|Action-Adventure
+Xbox 360|800000|800000.png|No/No
+Dead Island|September 06, 2011
+Deep Silver|Techland|Survival Horror
+Xbox 360|800001|800001.png|No/No
+Red Dead Redemption|May 18, 2010
+Rockstar Games|Rockstar San Diego|Action-Adventure
+Xbox 360|800002|800002.png|Yes/No
+Call of Duty: Advanced Warfare|November 04, 2014
+Activision|Sledgehammer Games|First-Person Shooter
+Xbox 360|800003|800003.png|No/No
+Shrek 2|April 28, 2004
+Activision|Luxoflux|Action-Adventure
+PlayStation 2|200002|200002.png|Yes/No
+Spider-Man|May 03, 2002
+Activision|Treyarch|Action
+PlayStation 2|200003|200003.png|Yes/No
+Grand Theft Auto: San Andreas|October 26, 2004
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 2|200004|200004.png|Yes/Yes
+Shrek: Super Party|November 16, 2002
+TDK Mediactive|Mass Media Inc.|Party
+PlayStation 2|200005|200005.png|Yes/Yes
+Grand Theft Auto: Liberty City Stories|October 24, 2005
+Rockstar Games|Rockstar Leeds|Action-Adventure
+PlayStation 2|200006|200006.png|Yes/No
+Resident Evil 7: Biohazard|January 24, 2017
+Capcom|Capcom|Survival Horror
+PlayStation 4|400003|400003.png|Yes/Yes
+The Sims 4|September 02, 2014
+Electronic Arts|Maxis|Simulation
+macOS|900000|900000.png|Yes/Yes
+New Super Mario Bros. Wii|November 15, 2009
+Nintendo|Nintendo EAD|Platformer
+Wii|700003|700003.png|No/No
+Grand Theft Auto III|October 22, 2001
+Rockstar Games|DMA Design|Action-Adventure
+PlayStation 2|200007|200007.png|Yes/Yes
+Lego Indiana Jones 2: The Adventure Continues|November 17, 2009
+LucasArts|Traveller's Tales|Action-Adventure
+Wii|700004|700004.png|No/No
+Rugrats: Royal Ransom|November 26, 2002
+THQ|Avalanche Software|Action-Adventure
+PlayStation 2|200008|200008.png|Yes/No
+Call of Duty: Ghosts|November 05, 2013
+Activision|Infinity Ward|First-Person Shooter
+PlayStation 3|300001|300001.png|Yes/No
+Saints Row 2|October 14, 2008
+THQ|Volition|Action-Adventure
+PlayStation 3|300002|300002.png|Yes/No
+The Sims 3|June 02, 2009
+Electronic Arts|Edge of Reality|Simulation
+PlayStation 3|300003|300003.png|Yes/Yes
+L.A. Noire: The Complete Edition|May 17, 2011
+Rockstar Games|Team Bondi|Action-Adventure
+PlayStation 3|300004|300004.png|Yes/Yes
+Call of Duty: Black Ops II|November 13, 2012
+Activision|Treyarch|First-Person Shooter
+PlayStation 3|300005|300005.png|Yes/No
+Resident Evil 5|March 05, 2009
+Capcom|Capcom|Third-Person Shooter
+PlayStation 3|300006|300006.png|Yes/Yes
+God of War|March 22, 2005
+Sony Computer Entertainment|SCE Santa Monica Studio|Hack-and-Slash
+PlayStation 3|300007|300007.png|No/No
+God of War II|March 13, 2007
+Sony Computer Entertainment|SCE Santa Monica Studio|Hack-and-Slash
+PlayStation 3|300008|300008.png|No/No
+God of War III|March 16, 2010
+Sony Computer Entertainment|SCE Santa Monica Studio|Hack-and-Slash
+PlayStation 3|300009|300009.png|Yes/No
+Resident Evil: Operation Raccoon City|March 20, 2012
+Capcom|Capcom|Third-Person Shooter
+PlayStation 3|300010|300010.png|Yes/No
+Resident Evil 4|January 11, 2005
+Capcom|Capcom Production|Survival Horror
+PlayStation 2|200009|200009.png|No/No
+Spider-Man 2|June 28, 2004
+Activision|Treyarch|Action
+PlayStation 2|200010|200010.png|No/No
+Scooby-Doo! Night of 100 Frights|May 20, 2002
+THQ|Heavy Iron Studios|Platformer
+PlayStation 2|200011|200011.png|Yes/No
+SpongeBob SquarePants: Battle for Bikini Bottom|October 31, 2003
+THQ|Heavy Iron Studios|Action-Adventure
+PlayStation 2|200012|200012.png|Yes/No
+Rage|October 04, 2011
+Bethesda Softworks|id Software|First-Person Shooter
+PlayStation 3|300011|300011.png|Yes/No
+Resident Evil 6|October 02, 2012
+Capcom|Capcom|Third-Person Shooter
+PlayStation 3|300012|300012.png|Yes/No
+Saints Row: The Third - The Full Package|November 15, 2011
+THQ|Volition|Action-Adventure
+PlayStation 3|300013|300013.png|Yes/Yes
+Evil Zone|May 31, 1999
+Titus Interactive|Yuke's Future Media Creators|Fighting
+PlayStation|100000|100000.png|Yes/Yes
+Resident Evil 2|January 21, 1998
+Capcom|Capcom|Survival Horror
+PlayStation|100001|100001.png|No/No
+World Destruction League: Thunder Tanks|September 09, 2000
+The 3DO Company|The 3DO Company|Car Combat
+PlayStation|100002|100002.png|No/No
+Resident Evil: Director's Cut|March 22, 1996
+Capcom|Capcom|Survival Horror
+PlayStation|100003|100003.png|No/No
+Rugrats: Search for Reptar|October 31, 1998
+THQ|n-Space|Action-Adventure
+PlayStation|100004|100004.png|Yes/No
+Attack on Titan 2|March 20, 2018
+Koei Tecmo|Omega Force|Action
+PlayStation 4|400004|400004.png|No/No
+The Last of Us Remastered|July 29, 2014
+Sony Computer Entertainment|Naughty Dog|Survival Horror
+PlayStation 4|400005|400005.png|Yes/No
+Infamous Second Son|March 21, 2014
+Sony Computer Entertainment|Sucker Punch Productions|Action-Adventure
+PlayStation 4|400006|400006.png|Yes/No
+Street Fighter V|February 16, 2016
+Capcom|Capcom Dimps|Fighting
+PlayStation 4|400007|400007.png|Yes/No
+Resident Evil: Revelations|January 26, 2012
+Capcom|Capcom|Survival Horror
+PlayStation 4|400008|400008.png|No/No
+Destiny|September 09, 2014
+Activision|Bungie|First-Person Shooter
+PlayStation 4|400010|400010.png|No/No
+Attack on Titan|August 30, 2016
+Koei Tecmo|Omega Force|Action
+PlayStation 4|400011|400011.png|Yes/Yes
+Wolfenstein: The New Order|May 20, 2014
+Bethesda Softworks|MachineGames|First-Person Shooter
+PlayStation 4|400012|400012.png|No/No
+Wolfenstein: The Old Blood|May 15, 2015
+Bethesda Softworks|MachineGames|First-Person Shooter
+PlayStation 4|400013|400013.png|Yes/No
+Minecraft: Story Mode - Season Two|July 11, 2017
+Telltale Games|Mojang|Graphic Adventure
+PlayStation 4|400014|400014.png|No/No
+Grand Theft Auto V|September 17, 2013
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 4|400015|400015.png|Yes/Yes
+Sword Art Online: Lost Song|November 17, 2015
+Bandai Namco Entertainment|Artdink|Role-Playing
+PlayStation 4|400016|400016.png|Yes/No
+Until Dawn|August 25, 2015
+Sony Computer Entertainment|Supermassive Games|Adventure
+PlayStation 4|400017|400017.png|Yes/Yes
+Mortal Kombat Komplete Edition|April 19, 2011
+Warner Bros. Interactive Entertainment|NetherRealm Studios|Fighting
+PlayStation 3|300014|300014.png|Yes/No
+Call of Duty: Modern Warfare 3|November 08, 2011
+Activision|Sledgehammer Games|First-Person Shooter
+PlayStation 3|300015|300015.png|Yes/No
+Infamous 2|June 07, 2011
+Sony Computer Entertainment|Sucker Punch Productions|Action-Adventure
+PlayStation 3|300016|300016.png|Yes/Yes
+Infamous|May 26, 2009
+Sony Computer Entertainment|Sucker Punch Productions|Action-Adventure
+PlayStation 3|300017|300017.png|No/No
+Grand Theft Auto IV|April 29, 2008
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 3|300018|300018.png|Yes/Yes
+Grand Theft Auto: The Ballad of Gay Tony|April 13, 2010
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 3|300019|300019.png|Yes/No
+Grand Theft Auto IV: The Lost and Damned|April 13, 2010
+Rockstar Games|Rockstar North|Action-Adventure
+PlayStation 3|300020|300020.png|No/No
+Donkey Kong Country 2: Diddy's Kong Quest|November 20, 1995
+Nintendo|Rare|Platformer
+Super Nintendo Entertainment System|600001|600001.png|Yes/No
+Donkey Kong Country|November 21, 1994
+Nintendo|Rare|Platformer
+Super Nintendo Entertainment System|600002|600002.png|Yes/No
+Donkey Kong Country 3: Dixie Kong's Double Trouble!|November 22, 1996
+Nintendo|Rare|Platformer
+Super Nintendo Entertainment System|600000|600000.png|No/No
+God of War: Ghost of Sparta|November 02, 2010
+Sony Computer Entertainment|Ready at Dawn|Hack-and-Slash
+PlayStation Portable|500000|500000.png|Yes/No
+The Sims 2: Pets|October 17, 2006
+Electronic Arts|The Sims Division|Simulation
+PlayStation Portable|500001|500001.png|No/No
+Cars|June 06, 2006
+THQ|Locomotive Games|Racing
+PlayStation Portable|500002|500002.png|Yes/No
+Cars 2|November 08, 2011
+Sony Computer Entertainment|Virtual Toys|Racing
+PlayStation Portable|500003|500003.png|No/No
+Def Jam Fight for NY: The Takeover|August 29, 2006
+Electronic Arts|AKI Corporation|Fighting
+PlayStation Portable|500004|500004.png|No/No
+Grand Theft Auto: Chinatown Wars|March 17, 2009
+Rockstar Games|Rockstar Leeds|Action-Adventure
+PlayStation Portable|500005|500005.png|No/No
+Grand Theft Auto: Vice City Stories|October 31, 2006
+Rockstar Games|Rockstar Leeds|Action-Adventure
+PlayStation Portable|500006|500006.png|Yes/Yes
+Lemmings|May 23, 2006
+Sony Computer Entertainment|Team17|Puzzle
+PlayStation Portable|500007|500007.png|Yes/No
+Lumines: Puzzle Fusion|March 22, 2005
+Ubisoft|Q Entertainment|Puzzle
+PlayStation Portable|500008|500008.png|Yes/No
+Manhunt 2|October 29, 2007
+Rockstar Games|Rockstar London|Survival Horror
+PlayStation Portable|500009|500009.png|No/No
+Naruto Shippuden: Ultimate Ninja Heroes 3|December 10, 2009
+Bandai Namco Entertainment|CyberConnect2|Fighting
+PlayStation Portable|500010|500010.png|Yes/No
+Patapon|February 26, 2008
+Sony Computer Entertainment|Pyramid|Rhythm
+PlayStation Portable|500011|500011.png|Yes/No
+Shrek the Third|June 05, 2007
+Activision|Amaze Entertainment|Action-Adventure
+PlayStation Portable|500012|500012.png|Yes/No
+Super Monkey Ball Adventure|August 29, 2006
+Sega|Traveller's Tales|Platformer
+PlayStation Portable|500013|500013.png|Yes/No
+The Sims 2: Castaway|October 22, 2007
+Electronic Arts|The Sims Division|Simulation
+PlayStation Portable|500014|500014.png|Yes/No
+WWE SmackDown vs. Raw 2008|November 13, 2007
+THQ|Yuke's|Sports
+PlayStation Portable|500015|500015.png|Yes/Yes
+WWE SmackDown vs. Raw 2009|November 09, 2008
+THQ|Yuke's|Sports
+PlayStation Portable|500016|500016.png|Yes/Yes
+Dead or Alive Paradise|March 30, 2010
+Tecmo Koei|Project Venus|Sports
+PlayStation Portable|500017|500017.png|No/No
+Fat Princess: Fistful of Cake|May 04, 2010
+Sony Computer Entertainment|SuperVillain Studios|Strategy
+PlayStation Portable|500018|500018.png|No/No
+Sword Art Online: Hollow Realization|October 27, 2017
+Bandai Namco Entertainment|Aquria|Role-Playing
+PlayStation 4|400009|400009.png|No/No
+Rugrats: Studio Tour|November 10, 1999
+THQ|n-Space|Action-Adventure
+PlayStation|100005|100005.png|Yes/No
+Resident Evil - Code: Veronica|February 03, 2000
+Capcom|Capcom|Survival Horror
+PlayStation 2|200013|200013.png|No/No
+Heavy Rain|February 23, 2010
+Sony Computer Entertainment|Quantic Dream|Action-Adventure
+PlayStation 3|300021|300021.png|No/No
+Pac-Man World 2|February 24, 2002
+Namco|Namco USA|Platformer
+PlayStation 2|200014|200014.png|No/No
+The SpongeBob SquarePants Movie|October 27, 2004
+THQ|Heavy Iron Studios|Platformer
+PlayStation 2|200015|200015.png|No/No
+Bully|October 17, 2006
+Rockstar Games|Rockstar Vancouver|Action-Adventure
+PlayStation 3|300022|300022.png|Yes/Yes
+Catherine|February 17, 2011
+Atlus USA|Atlus|Puzzle
+PlayStation 3|300023|300023.png|Yes/Yes
+Saints Row IV: Re-Elected|August 20, 2013
+Deep Silver|Volition|Action-Adventure
+PlayStation 4|400018|400018.png|Yes/Yes
+Saints Row: Gat out of Hell|January 20, 2015
+Deep Silver|Volition|Action-Adventure
+PlayStation 4|400019|400019.png|Yes/Yes
+Sleeping Dogs: Definitive Edition|August 14, 2012
+Square Enix|United Front Games|Action-Adventure
+PlayStation 4|400020|400020.png|Yes/No
+South Park: The Stick of Truth|March 04, 2014
+Ubisoft|Obsidian Entertainment|Role-Playing
+PlayStation 4|400021|400021.png|Yes/Yes
+Deus Ex: Mankind Divided|August 23, 2016
+Square Enix|Eidos Montréal|Action-Adventure
+PlayStation 4|400022|400022.png|No/No
+Psycho-Pass: Mandatory Happiness|September 13, 2016
+NIS America|5pb.|Visual Novel
+PlayStation 4|400023|400023.png|No/No
+Uncanny Valley|February 08, 2017
+Digerati Distribution|Cowardly Creations|Survival Horror
+PlayStation 4|400024|400024.png|No/No
+Star Wars Battlefront|November 17, 2015
+Electronic Arts|EA DICE|First-Person Shooter
+PlayStation 4|400025|400025.png|No/No
+Star Wars: Bounty Hunter|November 17, 2015
+LucasArts|LucasArts|Action
+PlayStation 4|400026|400026.png|No/No
+Star Wars: Jedi Starfighter|March 10, 2002
+LucasArts|LucasArts|Action
+PlayStation 4|400027|400027.png|No/No
+Star Wars Racer Revenge|February 11, 2002
+LucasArts|Rainbow Studios|Racing
+PlayStation 4|400028|400028.png|No/No
+Super Star Wars|November 17, 2015
+Disney Interactive Studios|Sculptured Software|Run and Gun
+PlayStation 4|400029|400029.png|No/No
+Minecraft: Story Mode - The Complete Adventure|October 25, 2016
+Telltale Games|Telltale Games|Graphic Adventure
+PlayStation 4|400030|400030.png|Yes/No
+Minecraft: Playstation 4 Edition|September 04, 2017
+Mojang|Mojang|Sandbox
+PlayStation 4|400031|400031.png|No/No
+Hitman: Absolution|May 15, 2014
+Square Enix|IO Interactive|Stealth
+PlayStation 3|300024|300024.png|No/No
